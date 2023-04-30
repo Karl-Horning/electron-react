@@ -1,0 +1,23 @@
+{
+  "name": "electron-react-template",
+  "version": "0.0.1",
+  "description": "An Electron template using React.",
+  "main": "index.js",
+  "private": true,
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "electron",
+    "react"
+  ],
+  "author": "Karl Horning",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^24.1.3"
+  }
+}
